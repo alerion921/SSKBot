@@ -64,16 +64,20 @@
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Source\dllmain.cpp" />
+    <ClCompile Include="Source\Includes\vec3.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BF2SDK.h" />
-    <ClInclude Include="BF2STD.h" />
-    <ClInclude Include="Console.h" />
-    <ClInclude Include="Include.h" />
-    <ClInclude Include="Menu.h" />
-    <ClInclude Include="Models.h" />
-    <ClInclude Include="SpreadTable.h" />
+    <ClInclude Include="Source\Includes\Console.h" />
+    <ClInclude Include="Source\Includes\detours.h" />
+    <ClInclude Include="Source\Includes\Include.h" />
+    <ClInclude Include="Source\Includes\Menu.h" />
+    <ClInclude Include="Source\Includes\Models.h" />
+    <ClInclude Include="Source\Includes\ObjectDefines.h" />
+    <ClInclude Include="Source\Includes\SpreadTable.h" />
+    <ClInclude Include="Source\Includes\vec3.h" />
+    <ClInclude Include="Source\SDK\BF2SDK.h" />
+    <ClInclude Include="Source\SDK\BF2STD.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

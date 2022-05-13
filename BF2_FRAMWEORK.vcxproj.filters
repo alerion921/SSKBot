@@ -15,30 +15,42 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dllmain.cpp">
+    <ClCompile Include="Source\Includes\vec3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BF2SDK.h">
+    <ClInclude Include="Source\SDK\BF2SDK.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BF2STD.h">
+    <ClInclude Include="Source\SDK\BF2STD.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Console.h">
+    <ClInclude Include="Source\Includes\Console.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Include.h">
+    <ClInclude Include="Source\Includes\detours.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Menu.h">
+    <ClInclude Include="Source\Includes\Include.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Models.h">
+    <ClInclude Include="Source\Includes\Menu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SpreadTable.h">
+    <ClInclude Include="Source\Includes\Models.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Includes\ObjectDefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Includes\SpreadTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Includes\vec3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
