@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BF2_FRAMWEORK", "BF2_FRAMWEORK.vcproj", "{16993394-FAA4-4A27-8D20-D80C1B854D6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16993394-FAA4-4A27-8D20-D80C1B854D6D}.Debug|Win32.ActiveCfg = Release|Win32
+		{16993394-FAA4-4A27-8D20-D80C1B854D6D}.Debug|Win32.Build.0 = Release|Win32
+		{16993394-FAA4-4A27-8D20-D80C1B854D6D}.Release|Win32.ActiveCfg = Release|Win32
+		{16993394-FAA4-4A27-8D20-D80C1B854D6D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

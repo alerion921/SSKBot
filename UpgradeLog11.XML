@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BF2_FRAMWEORK">
+</Property><Property Name="Solution File" Value="E:\Games\BF2 Misc\SSk Bot\[SSk.v2]pUbLiC 1.1_[unknowncheats.me]_\pUbLiC 1.1_[unknowncheats.me]_\SOURCE\BF2_FRAMWEORK.sln">
+</Property><Property Name="User Options File" Value="E:\Games\BF2 Misc\SSk Bot\[SSk.v2]pUbLiC 1.1_[unknowncheats.me]_\pUbLiC 1.1_[unknowncheats.me]_\SOURCE\BF2_FRAMWEORK.suo">
+</Property><Property Name="Date" Value="Friday, June 15, 2018">
+</Property><Property Name="Time" Value="22:00 PM">
+</Property><Property Name="Log Number" Value="11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BF2_FRAMWEORK.sln" Description="File successfully backed up as E:\Games\BF2 Misc\SSk Bot\[SSk.v2]pUbLiC 1.1_[unknowncheats.me]_\pUbLiC 1.1_[unknowncheats.me]_\SOURCE\BF2_FRAMWEORK.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="BF2_FRAMWEORK.suo" Description="File successfully backed up as E:\Games\BF2 Misc\SSk Bot\[SSk.v2]pUbLiC 1.1_[unknowncheats.me]_\pUbLiC 1.1_[unknowncheats.me]_\SOURCE\BF2_FRAMWEORK.suo.old">
+</Event><Event ErrorLevel="0" Project="BF2_FRAMWEORK" Source="BF2_FRAMWEORK.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="BF2_FRAMWEORK" Source="BF2_FRAMWEORK.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="BF2_FRAMWEORK" Source="BF2_FRAMWEORK.vcproj" Description="Project file successfully backed up as 'E:\Games\BF2 Misc\SSk Bot\[SSk.v2]pUbLiC 1.1_[unknowncheats.me]_\pUbLiC 1.1_[unknowncheats.me]_\SOURCE\BF2_FRAMWEORK.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="BF2_FRAMWEORK" Source="BF2_FRAMWEORK.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="BF2_FRAMWEORK" Source="BF2_FRAMWEORK.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BF2_FRAMWEORK.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BF2_FRAMWEORK.sln" Description="Converted">
+</Event></UpgradeLog>
